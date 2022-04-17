@@ -1,2 +1,2 @@
-# Mentado
-Extension and outreach work
+# Priyanshu-Chaudhary-CV
+My CV static website
